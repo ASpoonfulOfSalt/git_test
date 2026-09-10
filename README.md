@@ -1,1 +1,2 @@
 # git_test
+This is my first web repository ever. Welcome! When I was young I wanted to know how to make websites for friends. My mom bought me a Codeacademy license, but I never got attached to the subject. At the time I hadn't yet realized what I wanted to do with my life. I was a young, dumb kid and I wish I had taken advantage of the pro codeacademy license and learned HTML, CSS, and JS while I was young and had a malleable brain. Oh well.
